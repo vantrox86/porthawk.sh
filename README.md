@@ -50,7 +50,6 @@ Diferente de scanners básicos, o PortHawk foi projetado para **uso real em audi
 - Linux / WSL / macOS / Windows
 - Permissão para executar scripts Python
 
-
 ## 📦 Instalação
 
 ### 1️⃣ Clonar o repositório
@@ -58,3 +57,15 @@ Diferente de scanners básicos, o PortHawk foi projetado para **uso real em audi
 ```bash
 git clone https://github.com/seuusuario/porthawk.git
 cd porthawk
+
+2️⃣ Criar ambiente virtual (recomendado)
+python3 -m venv venv
+source venv/bin/activate
+
+3️⃣ Atualizar o pip
+pip install --upgrade pip
+
+5️⃣ Dar permissão de execução ao script
+
+chmod +x port_scanner.py
+
