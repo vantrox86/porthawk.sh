@@ -16,7 +16,7 @@
 Ele une uma **interface interativa elegante**, **modo CLI para automação**, **concorrência inteligente** e **relatórios estruturados**, entregando uma experiência comparável a ferramentas profissionais de mercado — com código limpo e extensível.
 
 **Autor:** Romildo (thuf)  
-🌐 **Website:** https://foryousec.com  
+🌐 **Website:** [https://medium.com/@romildothuf]
 📦 **Versão:** 2.1  
 
 
