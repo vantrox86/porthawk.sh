@@ -66,6 +66,8 @@ source venv/bin/activate
 pip install --upgrade pip
 
 5️⃣ Dar permissão de execução ao script
-
 chmod +x port_scanner.py
+
+6️⃣ Executar o PortHawk
+python3 port_scanner.py
 
