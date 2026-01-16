@@ -52,9 +52,8 @@ Diferente de scanners básicos, o PortHawk foi projetado para **uso real em audi
 
 ## 📦 Instalação
 
-### 1️⃣ Clonar o repositório
-
 ```bash
+1️⃣ Clonar o repositório
 git clone https://github.com/seuusuario/porthawk.git
 cd porthawk
 
