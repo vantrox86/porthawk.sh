@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 """
 PortHawk - Professional Port Scanner
-Autor: Romildo (thuf) - foryousec.com
-
-Uso responsável: execute somente em ambientes autorizados.
+Autor: Romildo (thuf) - https://medium.com/@romildothuf
 """
 
 import socket
