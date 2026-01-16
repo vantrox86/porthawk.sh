@@ -1,7 +1,16 @@
-<p align="center">
-  <b>==================================== P O R T H A W K ====================================</b>
-</p>
+---
 
+### Dica Bônus: Banner com Logo e Badges
+Para deixar o seu README realmente moderno (padrão de ferramentas profissionais de segurança), você pode combinar o seu banner com "badges" de status abaixo dele:
+
+```markdown
+<p align="center">
+  <code>==================================== P O R T H A W K ====================================</code> <br>
+  <i>Professional Port Scanner & Service Fingerprinting</i> <br>
+  <img src="https://img.shields.io/badge/Version-2.1-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3.7+-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge">
+</p>
 
 <img width="1676" height="580" alt="image" src="https://github.com/user-attachments/assets/98adc807-6aa8-4c3f-92ff-e4a9f3d6ff7a" />
 
